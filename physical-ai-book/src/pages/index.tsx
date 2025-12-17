@@ -230,7 +230,7 @@ export default function Home(): ReactNode {
               <Link className="cta-button-primary large" to="/docs/intro">
                 Start Learning Now →
               </Link>
-              <Link className="cta-button-secondary large" to="/docs/overview">
+              <Link className="cta-button-secondary large" to="/docs/intro">
                 View Course Outline
               </Link>
             </div>
