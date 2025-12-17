@@ -50,10 +50,6 @@ const config: Config = {
           position: 'left',
         },
         {
-          type: 'custom-auth-item',
-          position: 'right',
-        },
-        {
           href: 'https://github.com/panaversity/physical-ai-book',
           label: 'GitHub',
           position: 'right',
